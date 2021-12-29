@@ -1,9 +1,5 @@
-# Quantum Computing in Finance - Nimoy 👨‍💻
+# Quantum Computing in Finance 👨‍💻
 ## Hi 👋  This is a proof of concept repository for Qiskit Finance application , here we go! 🚀
-
-<p align="center">
-<img src="https://d9hhrg4mnvzow.cloudfront.net/www.nimoy.io/aed098da-nimoylogo-final-ama_10e80fq000000000000028.png" width="360">
-</p>
 
 ***
 ### General Info
